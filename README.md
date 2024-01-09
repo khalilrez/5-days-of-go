@@ -38,7 +38,7 @@ This repository features a curated set of 10 projects designed to empower my Go 
     * **Description:** Create a program that uses slices and maps to store and retrieve information about movies (title, year, genre, rating).
     * **Benefits:** Showcase dynamic data structures, data organization, and retrieval techniques.
 
-8. **Project 8 (Bonus): Recipe Book:**
+8. **Project 8: Recipe Book:**
     * **Description:** Design a program with nested maps to store recipes with ingredients, instructions, and serving size.
     * **Benefits:** Expand on map usage, explore nested data structures, and practice real-world data representation.
 
