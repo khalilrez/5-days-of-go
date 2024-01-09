@@ -52,11 +52,5 @@ This repository features a curated set of 10 projects designed to empower my Go 
     * **Description:** Create a program that extracts data from a simple website and displays it on the console.
     * **Benefits:** Explore basic web scraping using libraries like GoQuery, expand data access skills, and learn web-based data interactions.
 
-**Get Started and Level Up Your Go Skills!**
 
-Clone the repository, explore each project directory, and follow the detailed instructions in the respective README files. Remember, these projects are stepping stones – feel free to customize them, add features, and make them your own!
-
-We encourage you to contribute by sharing your improvements or suggesting new projects. Together, let's create a vibrant learning community and propel our Go programming expertise to new heights!
-
-**Happy Coding!**
 
